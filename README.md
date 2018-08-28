@@ -1,0 +1,2 @@
+# langblog
+lang博客
